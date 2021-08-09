@@ -1,4 +1,5 @@
 # Todo
 
 - [x] Write letter forms
-- [ ] Write Special Symbols
+- [x] Write number forms
+- [ ] Write Special Symbols forms
