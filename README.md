@@ -1,7 +1,9 @@
 # Usless-Binary-Tree
 Each character in the form of binary
 
-## Letters
+# Lower Case 
+
+<br><br>
 
 Letter |	ASCII Code |	Binary	
 -------|-------------|-------
@@ -31,6 +33,14 @@ w	     | 119	       | 01110111
 x	     | 120	       | 01111000	
 y	     | 121	       | 01111001	
 z	     | 122	       | 01111010	
+
+<br><br>
+
+# Upper Case 
+
+<br><br>
+Letter |	ASCII Code |	Binary	
+-------|-------------|-------
 A	     | 065	       | 01000001
 B	     | 066	       | 01000010
 C	     | 067	       | 01000011
